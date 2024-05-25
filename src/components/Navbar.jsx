@@ -2,7 +2,7 @@ import React from 'react';
 
 const Navbar = () => {
     return (
-        <div className="navbar bg-base-100 fixed">
+        <div className="navbar bg-base-100 sticky top-0">
             <div className="flex-1">
                 <a className="btn btn-ghost text-2xl font-bold">Ecommerce</a>
             </div>
