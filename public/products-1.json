@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 12 Pro Max",
+    "price": 1000,
+    "brand": "Apple",
+    "category": "Smartphone",
+    "rating": 4.5,
+    "image": "https://source.unsplash.com/gtX5DIIHGqE",
+    "description": "A smartphone is a mobile device that combines cellular and mobile computing functions into one unit."
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S21 Ultra",
+    "price": 1200,
+    "brand": "Samsung",
+    "category": "Smartphone",
+    "rating": 4.6,
+    "image": "https://source.unsplash.com/uCqMa_s-JDg",
+    "description": "The Samsung Galaxy S21 Ultra features a 108MP camera and 8K video recording."
+  },
+  {
+    "id": 3,
+    "name": "MacBook Pro 16-inch",
+    "price": 2400,
+    "brand": "Apple",
+    "category": "Laptop",
+    "rating": 4.7,
+    "image": "https://source.unsplash.com/2LDtrT8FbNs",
+    "description": "The MacBook Pro 16-inch offers incredible performance and a stunning Retina display."
+  },
+  {
+    "id": 4,
+    "name": "Sony WH-1000XM4",
+    "price": 350,
+    "brand": "Sony",
+    "category": "Headphones",
+    "rating": 4.8,
+    "image": "https://source.unsplash.com/YDZPdqv3FcA",
+    "description": "Industry-leading noise canceling with Dual Noise Sensor technology."
+  },
+  {
+    "id": 5,
+    "name": "Apple Watch Series 6",
+    "price": 400,
+    "brand": "Apple",
+    "category": "Smartwatch",
+    "rating": 4.5,
+    "image": "https://source.unsplash.com/LAacfd1Hn8g",
+    "description": "The Apple Watch Series 6 monitors your blood oxygen level with a revolutionary sensor and app."
+  },
+  {
+    "id": 6,
+    "name": "Dell XPS 13",
+    "price": 1500,
+    "brand": "Dell",
+    "category": "Laptop",
+    "rating": 4.6,
+    "image": "https://source.unsplash.com/2nCeVeFWA_c",
+    "description": "The Dell XPS 13 is a high-performance laptop with an InfinityEdge display."
+  },
+  {
+    "id": 7,
+    "name": "Bose QuietComfort 35 II",
+    "price": 300,
+    "brand": "Bose",
+    "category": "Headphones",
+    "rating": 4.7,
+    "image": "https://source.unsplash.com/m0MWINRf4AI",
+    "description": "The Bose QuietComfort 35 II offers world-class noise cancellation."
+  },
+  {
+    "id": 8,
+    "name": "Google Pixel 5",
+    "price": 700,
+    "brand": "Google",
+    "category": "Smartphone",
+    "rating": 4.4,
+    "image": "https://source.unsplash.com/BBuxnOkl2Uk",
+    "description": "The Google Pixel 5 offers 5G speed, a long-lasting battery, and wireless charging."
+  },
+  {
+    "id": 9,
+    "name": "Samsung Q90T QLED TV",
+    "price": 1800,
+    "brand": "Samsung",
+    "category": "Television",
+    "rating": 4.8,
+    "image": "https://source.unsplash.com/nmTm7knUnqs",
+    "description": "The Samsung Q90T QLED TV delivers stunning 4K picture quality."
+  },
+  {
+    "id": 10,
+    "name": "Apple iPad Pro 12.9",
+    "price": 1200,
+    "brand": "Apple",
+    "category": "Tablet",
+    "rating": 4.7,
+    "image": "https://source.unsplash.com/-cCxgKIA5RA",
+    "description": "The iPad Pro 12.9 offers an immersive all-screen Liquid Retina display."
+  },
+  {
+    "id": 11,
+    "name": "Sony PlayStation 5",
+    "price": 500,
+    "brand": "Sony",
+    "category": "Gaming Console",
+    "rating": 4.9,
+    "image": "https://source.unsplash.com/tnfbre82_hc",
+    "description": "The PlayStation 5 offers lightning-fast loading with an ultra-high-speed SSD."
+  },
+  {
+    "id": 12,
+    "name": "Amazon Echo Dot (4th Gen)",
+    "price": 50,
+    "brand": "Amazon",
+    "category": "Smart Speaker",
+    "rating": 4.5,
+    "image": "https://source.unsplash.com/db4jrNvZhOQ",
+    "description": "The Echo Dot is a smart speaker with Alexa voice control."
+  },
+  {
+    "id": 13,
+    "name": "Fitbit Charge 4",
+    "price": 150,
+    "brand": "Fitbit",
+    "category": "Fitness Tracker",
+    "rating": 4.4,
+    "image": "https://source.unsplash.com/bwFW9PTJZx8",
+    "description": "The Fitbit Charge 4 tracks your activity and sleep with built-in GPS."
+  },
+  {
+    "id": 14,
+    "name": "Canon EOS R5",
+    "price": 3900,
+    "brand": "Canon",
+    "category": "Camera",
+    "rating": 4.8,
+    "image": "https://source.unsplash.com/Ia-iCu0ANMc",
+    "description": "The Canon EOS R5 offers 45MP full-frame CMOS sensor and 8K video."
+  },
+  {
+    "id": 15,
+    "name": "Microsoft Surface Pro 7",
+    "price": 900,
+    "brand": "Microsoft",
+    "category": "Tablet",
+    "rating": 4.5,
+    "image": "https://source.unsplash.com/L2VySncWg-A",
+    "description": "The Surface Pro 7 is an ultra-light and versatile 2-in-1 laptop."
+  },
+  {
+    "id": 16,
+    "name": "Nikon Z6",
+    "price": 2000,
+    "brand": "Nikon",
+    "category": "Camera",
+    "rating": 4.6,
+    "image": "https://source.unsplash.com/Rux50ySjahc",
+    "description": "The Nikon Z6 offers full-frame mirrorless capabilities with 24.5MP sensor."
+  }
+]

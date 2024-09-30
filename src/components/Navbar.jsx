@@ -2,7 +2,7 @@ import { NavLink } from 'react-router-dom';
 
 const Navbar = () => {
     return (
-        <div className="navbar bg-base-100">
+        <div className="navbar bg-base-100 fixed top-0 z-50">
             <div className="navbar-start">
                 <div className="dropdown">
                     <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -12,6 +12,7 @@ const Navbar = () => {
                         <li><NavLink to='/'>Home</NavLink></li>
                         <li><NavLink to='/login'>Login</NavLink></li>
                         <li><NavLink to='/signup'>Sign Up</NavLink></li>
+                        <li><NavLink to='/products'>Products</NavLink></li>
                     </ul>
                 </div>
                 <a className="btn btn-ghost text-xl font-bold">Ecommerce</a>
@@ -21,6 +22,7 @@ const Navbar = () => {
                     <li><NavLink to='/'>Home</NavLink></li>
                     <li><NavLink to='/login'>Login</NavLink></li>
                     <li><NavLink to='/signup'>Sign Up</NavLink></li>
+                    <li><NavLink to='/products'>Products</NavLink></li>
                 </ul>
             </div>
             <div className="navbar-end">

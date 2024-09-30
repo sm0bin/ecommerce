@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Cheeseburger",
+    "price": 8.99,
+    "brand": "Burger Haven",
+    "category": "Fast Food",
+    "rating": 4.7,
+    "image": "https://source.unsplash.com/GWkioAj5aYk",
+    "description": "A juicy beef patty topped with cheddar cheese, lettuce, tomato, and pickles."
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni Pizza Slice",
+    "price": 3.5,
+    "brand": "Pizza Palace",
+    "category": "Fast Food",
+    "rating": 4.5,
+    "image": "https://source.unsplash.com/lthYhzYW9Rw",
+    "description": "A classic slice loaded with pepperoni and gooey mozzarella cheese."
+  },
+  {
+    "id": 3,
+    "name": "Fried Chicken Bucket",
+    "price": 12.99,
+    "brand": "Crunchy Chicken",
+    "category": "Fast Food",
+    "rating": 4.8,
+    "image": "https://source.unsplash.com/fdlZBWIP0aM",
+    "description": "A bucket of crispy, golden fried chicken pieces, perfect for sharing."
+  },
+  {
+    "id": 4,
+    "name": "Chicken Nuggets",
+    "price": 4.99,
+    "brand": "Nugget Nation",
+    "category": "Fast Food",
+    "rating": 4.4,
+    "image": "https://source.unsplash.com/A5E-ym6WyGM",
+    "description": "Bite-sized crispy chicken nuggets with a side of dipping sauce."
+  },
+  {
+    "id": 5,
+    "name": "French Fries",
+    "price": 2.99,
+    "brand": "Fries Frenzy",
+    "category": "Fast Food",
+    "rating": 4.6,
+    "image": "https://source.unsplash.com/vKxJ0fN6nC4",
+    "description": "Crispy, golden French fries seasoned to perfection."
+  },
+  {
+    "id": 6,
+    "name": "Spicy Chicken Sandwich",
+    "price": 6.99,
+    "brand": "Sandwich Shack",
+    "category": "Fast Food",
+    "rating": 4.7,
+    "image": "https://source.unsplash.com/HilPPDYK-28",
+    "description": "A spicy fried chicken breast served with lettuce, pickles, and mayo."
+  },
+  {
+    "id": 7,
+    "name": "Veggie Wrap",
+    "price": 7.49,
+    "brand": "Wrap World",
+    "category": "Fast Food",
+    "rating": 4.3,
+    "image": "https://source.unsplash.com/FJZtZldA-uE",
+    "description": "A healthy wrap filled with fresh veggies, hummus, and avocado."
+  },
+  {
+    "id": 8,
+    "name": "Bacon Cheeseburger",
+    "price": 9.99,
+    "brand": "Grill King",
+    "category": "Fast Food",
+    "rating": 4.6,
+    "image": "https://source.unsplash.com/K6SL4iI73A4",
+    "description": "A beef patty topped with crispy bacon, cheddar cheese, and special sauce."
+  },
+  {
+    "id": 9,
+    "name": "Fish Tacos",
+    "price": 6.5,
+    "brand": "Taco Town",
+    "category": "Fast Food",
+    "rating": 4.5,
+    "image": "https://source.unsplash.com/ZUqaYPaLRn0",
+    "description": "Freshly grilled fish wrapped in soft tortillas with cabbage slaw and lime."
+  },
+  {
+    "id": 10,
+    "name": "BBQ Chicken Pizza",
+    "price": 14.99,
+    "brand": "Pizza Planet",
+    "category": "Fast Food",
+    "rating": 4.7,
+    "image": "https://source.unsplash.com/UvQ0D14uWto",
+    "description": "A pizza topped with BBQ sauce, grilled chicken, and red onions."
+  },
+  {
+    "id": 11,
+    "name": "Loaded Nachos",
+    "price": 8.5,
+    "brand": "Nacho Nation",
+    "category": "Fast Food",
+    "rating": 4.4,
+    "image": "https://source.unsplash.com/1Rm9GLHV0UA",
+    "description": "Crispy tortilla chips topped with melted cheese, jalapenos, and salsa."
+  },
+  {
+    "id": 12,
+    "name": "Chocolate Milkshake",
+    "price": 4.25,
+    "brand": "Shake Shack",
+    "category": "Fast Food",
+    "rating": 4.9,
+    "image": "https://source.unsplash.com/JtV6zyOZSrA",
+    "description": "A rich and creamy chocolate milkshake topped with whipped cream."
+  }
+]
