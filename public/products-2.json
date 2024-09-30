@@ -6,7 +6,7 @@
     "brand": "Burger Haven",
     "category": "Fast Food",
     "rating": 4.7,
-    "image": "https://source.unsplash.com/GWkioAj5aYk",
+    "image": "/products-2/01.jpg",
     "description": "A juicy beef patty topped with cheddar cheese, lettuce, tomato, and pickles."
   },
   {
@@ -16,7 +16,7 @@
     "brand": "Pizza Palace",
     "category": "Fast Food",
     "rating": 4.5,
-    "image": "https://source.unsplash.com/lthYhzYW9Rw",
+    "image": "/products-2/02.jpg",
     "description": "A classic slice loaded with pepperoni and gooey mozzarella cheese."
   },
   {
@@ -26,7 +26,7 @@
     "brand": "Crunchy Chicken",
     "category": "Fast Food",
     "rating": 4.8,
-    "image": "https://source.unsplash.com/fdlZBWIP0aM",
+    "image": "/products-2/03.jpg",
     "description": "A bucket of crispy, golden fried chicken pieces, perfect for sharing."
   },
   {
@@ -36,7 +36,7 @@
     "brand": "Nugget Nation",
     "category": "Fast Food",
     "rating": 4.4,
-    "image": "https://source.unsplash.com/A5E-ym6WyGM",
+    "image": "/products-2/04.jpg",
     "description": "Bite-sized crispy chicken nuggets with a side of dipping sauce."
   },
   {
@@ -46,7 +46,7 @@
     "brand": "Fries Frenzy",
     "category": "Fast Food",
     "rating": 4.6,
-    "image": "https://source.unsplash.com/vKxJ0fN6nC4",
+    "image": "/products-2/05.jpg",
     "description": "Crispy, golden French fries seasoned to perfection."
   },
   {
@@ -56,7 +56,7 @@
     "brand": "Sandwich Shack",
     "category": "Fast Food",
     "rating": 4.7,
-    "image": "https://source.unsplash.com/HilPPDYK-28",
+    "image": "/products-2/06.jpg",
     "description": "A spicy fried chicken breast served with lettuce, pickles, and mayo."
   },
   {
@@ -66,7 +66,7 @@
     "brand": "Wrap World",
     "category": "Fast Food",
     "rating": 4.3,
-    "image": "https://source.unsplash.com/FJZtZldA-uE",
+    "image": "/products-2/07.jpg",
     "description": "A healthy wrap filled with fresh veggies, hummus, and avocado."
   },
   {
@@ -76,7 +76,7 @@
     "brand": "Grill King",
     "category": "Fast Food",
     "rating": 4.6,
-    "image": "https://source.unsplash.com/K6SL4iI73A4",
+    "image": "/products-2/08.jpg",
     "description": "A beef patty topped with crispy bacon, cheddar cheese, and special sauce."
   },
   {
@@ -86,7 +86,7 @@
     "brand": "Taco Town",
     "category": "Fast Food",
     "rating": 4.5,
-    "image": "https://source.unsplash.com/ZUqaYPaLRn0",
+    "image": "/products-2/09.jpg",
     "description": "Freshly grilled fish wrapped in soft tortillas with cabbage slaw and lime."
   },
   {
@@ -96,7 +96,7 @@
     "brand": "Pizza Planet",
     "category": "Fast Food",
     "rating": 4.7,
-    "image": "https://source.unsplash.com/UvQ0D14uWto",
+    "image": "/products-2/10.jpg",
     "description": "A pizza topped with BBQ sauce, grilled chicken, and red onions."
   },
   {
@@ -106,7 +106,7 @@
     "brand": "Nacho Nation",
     "category": "Fast Food",
     "rating": 4.4,
-    "image": "https://source.unsplash.com/1Rm9GLHV0UA",
+    "image": "/products-2/11.jpg",
     "description": "Crispy tortilla chips topped with melted cheese, jalapenos, and salsa."
   },
   {
@@ -116,7 +116,7 @@
     "brand": "Shake Shack",
     "category": "Fast Food",
     "rating": 4.9,
-    "image": "https://source.unsplash.com/JtV6zyOZSrA",
+    "image": "/products-2/12.jpg",
     "description": "A rich and creamy chocolate milkshake topped with whipped cream."
   }
 ]
