@@ -56,6 +56,14 @@ const Products = () => {
         localStorage.setItem('cart', JSON.stringify(updatedCart));
     };
 
+    // Function to handle checkout
+    const handleChekout = () => {
+        // alert('Checkout successful!');
+        prompt("Please enter your address:", "Bangladesh")
+        setCart([]);
+        localStorage.removeItem('cart');
+    };
+
     return (
         <div className='mx-5 h-[80vh]'>
             <h1 className='text-3xl font-bold text-center mb-8 mt-20'>
@@ -116,7 +124,7 @@ const Products = () => {
                         <h3 className='text-lg font-semibold'>Total: </h3>
                         <p className='text-lg font-semibold'>৳ {cart.reduce((total, item) => total + item.price * item.quantity, 0)}</p>
                     </div>
-                    <button onClick={() => prompt("Please enter your address:", "Bangladesh")} className='btn btn-primary w-full'>Checkout</button>
+                    <button onClick={() => handleChekout()} className='btn btn-primary w-full'>Checkout</button>
                 </div>
             </div>
         </div>
