@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Classic Cheeseburger",
-    "price": 8.99,
+    "price": 899,
     "brand": "Burger Haven",
     "category": "Fast Food",
     "rating": 4.7,
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "name": "Pepperoni Pizza Slice",
-    "price": 3.5,
+    "price": 750,
     "brand": "Pizza Palace",
     "category": "Fast Food",
     "rating": 4.5,
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "name": "Fried Chicken Bucket",
-    "price": 12.99,
+    "price": 1299,
     "brand": "Crunchy Chicken",
     "category": "Fast Food",
     "rating": 4.8,
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "name": "Chicken Nuggets",
-    "price": 4.99,
+    "price": 499,
     "brand": "Nugget Nation",
     "category": "Fast Food",
     "rating": 4.4,
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "name": "French Fries",
-    "price": 2.99,
+    "price": 299,
     "brand": "Fries Frenzy",
     "category": "Fast Food",
     "rating": 4.6,
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "name": "Spicy Chicken Sandwich",
-    "price": 6.99,
+    "price": 699,
     "brand": "Sandwich Shack",
     "category": "Fast Food",
     "rating": 4.7,
@@ -62,7 +62,7 @@
   {
     "id": 7,
     "name": "Veggie Wrap",
-    "price": 7.49,
+    "price": 749,
     "brand": "Wrap World",
     "category": "Fast Food",
     "rating": 4.3,
@@ -72,7 +72,7 @@
   {
     "id": 8,
     "name": "Bacon Cheeseburger",
-    "price": 9.99,
+    "price": 999,
     "brand": "Grill King",
     "category": "Fast Food",
     "rating": 4.6,
@@ -82,7 +82,7 @@
   {
     "id": 9,
     "name": "Fish Tacos",
-    "price": 6.5,
+    "price": 565,
     "brand": "Taco Town",
     "category": "Fast Food",
     "rating": 4.5,
@@ -92,7 +92,7 @@
   {
     "id": 10,
     "name": "BBQ Chicken Pizza",
-    "price": 14.99,
+    "price": 1499,
     "brand": "Pizza Planet",
     "category": "Fast Food",
     "rating": 4.7,
@@ -102,7 +102,7 @@
   {
     "id": 11,
     "name": "Loaded Nachos",
-    "price": 8.5,
+    "price": 385,
     "brand": "Nacho Nation",
     "category": "Fast Food",
     "rating": 4.4,
@@ -112,7 +112,7 @@
   {
     "id": 12,
     "name": "Chocolate Milkshake",
-    "price": 4.25,
+    "price": 425,
     "brand": "Shake Shack",
     "category": "Fast Food",
     "rating": 4.9,

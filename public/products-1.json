@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Iphone 12 Pro Max",
-    "price": 1000,
+    "price": 100000,
     "brand": "Apple",
     "category": "Smartphone",
     "rating": 4.5,
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "name": "Samsung Galaxy S21 Ultra",
-    "price": 1200,
+    "price": 120000,
     "brand": "Samsung",
     "category": "Smartphone",
     "rating": 4.6,
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "name": "MacBook Pro 16-inch",
-    "price": 2400,
+    "price": 240000,
     "brand": "Apple",
     "category": "Laptop",
     "rating": 4.7,
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "name": "Apple Watch Series 6",
-    "price": 400,
+    "price": 40000,
     "brand": "Apple",
     "category": "Smartwatch",
     "rating": 4.5,
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "name": "Dell XPS 13",
-    "price": 1500,
+    "price": 150000,
     "brand": "Dell",
     "category": "Laptop",
     "rating": 4.6,
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "name": "Google Pixel 5",
-    "price": 700,
+    "price": 70000,
     "brand": "Google",
     "category": "Smartphone",
     "rating": 4.4,
@@ -62,7 +62,7 @@
   {
     "id": 7,
     "name": "Sony PlayStation 5",
-    "price": 500,
+    "price": 50000,
     "brand": "Sony",
     "category": "Gaming Console",
     "rating": 4.9,
@@ -72,7 +72,7 @@
   {
     "id": 8,
     "name": "Amazon Echo Dot (4th Gen)",
-    "price": 50,
+    "price": 5000,
     "brand": "Amazon",
     "category": "Smart Speaker",
     "rating": 4.5,
@@ -82,7 +82,7 @@
   {
     "id": 9,
     "name": "Fitbit Charge 4",
-    "price": 150,
+    "price": 15000,
     "brand": "Fitbit",
     "category": "Fitness Tracker",
     "rating": 4.4,
@@ -92,7 +92,7 @@
   {
     "id": 10,
     "name": "Canon EOS R5",
-    "price": 3900,
+    "price": 390000,
     "brand": "Canon",
     "category": "Camera",
     "rating": 4.8,
@@ -102,7 +102,7 @@
   {
     "id": 11,
     "name": "Microsoft Surface Pro 7",
-    "price": 900,
+    "price": 90000,
     "brand": "Microsoft",
     "category": "Tablet",
     "rating": 4.5,
@@ -112,7 +112,7 @@
   {
     "id": 12,
     "name": "Nikon Z6",
-    "price": 2000,
+    "price": 200000,
     "brand": "Nikon",
     "category": "Camera",
     "rating": 4.6,
