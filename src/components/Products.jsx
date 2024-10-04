@@ -4,6 +4,25 @@ import { useState, useEffect } from 'react';
 const Products = () => {
     const products = useLoaderData();
     const [cart, setCart] = useState([]);
+    const [isLoggedIn, setIsLoggedIn] = useState(false);
+    // const [user, setUser] = useState(null);
+    // const navigate = useNavigate();
+
+    useEffect(() => {
+        // Check login status on page load
+        const loggedInUser = JSON.parse(localStorage.getItem('loggedInUser'));
+        if (loggedInUser) {
+            setIsLoggedIn(true);
+            // setUser(loggedInUser); // Store user data for display
+        }
+    }, []);
+
+    // const handleLogout = () => {
+    //     localStorage.removeItem('loggedInUser'); // Remove login data
+    //     setIsLoggedIn(false);
+    //     setUser(null);
+    //     navigate('/login');
+    // };
 
     // Load cart items from localStorage when the component mounts
     useEffect(() => {
@@ -57,11 +76,20 @@ const Products = () => {
     };
 
     // Function to handle checkout
-    const handleChekout = () => {
-        // alert('Checkout successful!');
-        prompt("Please enter your address:", "Bangladesh")
-        setCart([]);
-        localStorage.removeItem('cart');
+    const handleCheckout = () => {
+        if (cart.length === 0) {
+            alert('No items in cart.');
+            return;
+        } else if (!isLoggedIn) {
+            alert('Please log in to checkout.');
+            return;
+        } else {
+            // alert('Checkout successful!');
+            prompt("Please enter your address:", "Bangladesh")
+            setCart([]);
+            localStorage.removeItem('cart');
+        }
+
     };
 
     return (
@@ -124,7 +152,7 @@ const Products = () => {
                         <h3 className='text-lg font-semibold'>Total: </h3>
                         <p className='text-lg font-semibold'>৳ {cart.reduce((total, item) => total + item.price * item.quantity, 0)}</p>
                     </div>
-                    <button onClick={() => handleChekout()} className='btn btn-primary w-full'>Checkout</button>
+                    <button onClick={() => handleCheckout()} className='btn btn-primary w-full'>Checkout</button>
                 </div>
             </div>
         </div>

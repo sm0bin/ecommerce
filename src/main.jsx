@@ -11,6 +11,8 @@ import SignUp from "./components/SignUp";
 import Login from "./components/Login";
 import Products from "./components/Products";
 
+
+
 const router = createBrowserRouter([
   {
     path: "/",
