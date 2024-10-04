@@ -94,9 +94,26 @@ const Products = () => {
 
     return (
         <div className='mx-5 h-[80vh]'>
-            <h1 className='text-3xl font-bold text-center mb-8 mt-20'>
+            {/* Marketing Card */}
+            <div className="flex justify-center items-center gap-20 mt-20 mb-4 py-8">
+                <figure>
+                    <img
+                        className='h-52'
+                        src="/svg/delivery.svg"
+                        alt="Album" />
+                </figure>
+                <div className="">
+                    <h2 className="font-bold text-6xl mb-4 text-primary">Ecommerce</h2>
+                    <p className='font-medium text-3xl'>Best Products at Your Doorstep.</p>
+                    {/* <div className="card-actions justify-end">
+                        <button className="btn btn-primary">Listen</button>
+                    </div> */}
+                </div>
+            </div>
+
+            {/* <h1 className='text-3xl font-bold text-center mb-8'>
                 Products
-            </h1>
+            </h1> */}
 
             <div className='grid grid-cols-4 gap-4 h-[80vh]'>
                 <div className='col-span-3 grid grid-cols-3 gap-4 h-[80vh] overflow-y-auto'>

@@ -34,7 +34,7 @@ const router = createBrowserRouter([
         path: "/products",
         element: <Products />,
         loader: async () => {
-          const response = await fetch("/products-2.json");
+          const response = await fetch("/data/products-2.json");
           const data = await response.json();
           return data;
         },
