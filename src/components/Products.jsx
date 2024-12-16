@@ -84,10 +84,10 @@ const Products = () => {
             alert('Please log in to checkout.');
             return;
         } else {
-            // alert('Checkout successful!');
             prompt("Please enter your address:", "Bangladesh")
             setCart([]);
             localStorage.removeItem('cart');
+            // alert('Checkout successful!');
         }
 
     };
@@ -116,7 +116,8 @@ const Products = () => {
             </h1> */}
 
             <div className='grid grid-cols-4 gap-4 h-[80vh]'>
-                <div className='col-span-3 grid grid-cols-3 gap-4 h-[80vh] overflow-y-auto'>
+                {/* Products Section */}
+                <section className='col-span-3 grid grid-cols-3 gap-4 h-[80vh] overflow-y-auto'>
                     {
                         products.map((product) => (
                             <div key={product.id} className="card card-compact bg-base-100 border">
@@ -132,8 +133,10 @@ const Products = () => {
                             </div>
                         ))
                     }
-                </div>
-                <div className='flex flex-col border p-4 space-y-4'>
+                </section>
+
+                {/* Cart Section */}
+                <section className='flex flex-col border p-4 space-y-4'>
                     <h2 className='text-2xl font-bold text-center'>Cart</h2>
                     <div className="divider"></div>
 
@@ -170,7 +173,7 @@ const Products = () => {
                         <p className='text-lg font-semibold'>৳ {cart.reduce((total, item) => total + item.price * item.quantity, 0)}</p>
                     </div>
                     <button onClick={() => handleCheckout()} className='btn btn-primary w-full'>Checkout</button>
-                </div>
+                </section>
             </div>
         </div>
     );
